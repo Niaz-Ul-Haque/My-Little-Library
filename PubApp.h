@@ -1,17 +1,3 @@
-/***********************************************************************
-// OOP244 Project Milestone 4
-// File	PubApp.h
-// Version 1.1
-// Author	Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-// Fardad          2019/12/01      intial release
-// Fardad          2019/12/03      fixed the mutiple read function error 
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #ifndef SDDS_PUBAPP_H__
 #define SDDS_PUBAPP_H__
 #include <iostream>
